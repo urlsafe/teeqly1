@@ -1,23 +1,18 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=PimPooooom" alt="Typing SVG" />
-</p>
+# urlsafe!
 
----
+## Activity
 
-### 🚀 Languages & Tools
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=teeqly&show_icons=true&hide_border=true&count_private=true&theme=dark)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=teeqly&hide_border=true&theme=dark)
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" height="55" alt="C++"/>
-</p>
 
----
+## Languages & Tools
 
-### 👀 Visitors
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teeqly&color=blueviolet&style=flat-square" />
-</p>
+
+![Visitors](https://komarev.com/ghpvc/?username=teeqly&color=blueviolet&style=flat-square&label=visitors)
